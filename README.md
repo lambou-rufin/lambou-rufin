@@ -5,7 +5,7 @@ Basé à Fianarantsoa, Madagascar.
 
 ---
 
- Technologies et outils
+## Technologies et outils
  
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80" style="margin-right:10px;"/>
