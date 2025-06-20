@@ -22,8 +22,10 @@ Basé à Fianarantsoa, Madagascar.
 
 
 ## 🛠 Base de données
+<p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80" />
+</p>
 ## 📫 Contact
 
 - Email : lambonirinarufin@gmail.com  
