@@ -7,40 +7,16 @@
 ## Technologies et outils
  Languages & frameworks
 <p float="left">
-<!-- Ajouter le script pour SkillIcons -->
-<script src="https://cdn.jsdelivr.net/npm/skill-icons@1.0.0/dist/index.js"></script>
-
-<!-- Node.js -->
-<i class="skill-icon skill-icon-nodejs" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- React -->
-<i class="skill-icon skill-icon-react" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- Angular -->
-<i class="skill-icon skill-icon-angular" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- TypeScript -->
-<i class="skill-icon skill-icon-typescript" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- JavaScript -->
-<i class="skill-icon skill-icon-javascript" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- NestJS -->
-<i class="skill-icon skill-icon-nestjs" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- ExpressJS -->
-<i class="skill-icon skill-icon-express" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- Spring Boot -->
-<i class="skill-icon skill-icon-spring" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- PHP -->
-<i class="skill-icon skill-icon-php" style="font-size: 80px; margin-right: 10px;"></i>
-
-<!-- HTML5 -->
-<i class="skill-icon skill-icon-html" style="font-size: 60px;"></i>
-
-
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="80" height="80" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="80" height="80" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80" height="80" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
 </p>
    Base de données
 <p float="left">
