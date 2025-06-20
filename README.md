@@ -7,7 +7,7 @@
 ## Technologies et outils
  Languages & frameworks
 <p float="left">
- <!-- Ajouter le script pour SkillIcons -->
+<!-- Ajouter le script pour SkillIcons -->
 <script src="https://cdn.jsdelivr.net/npm/skill-icons@1.0.0/dist/index.js"></script>
 
 <!-- Node.js -->
@@ -39,6 +39,7 @@
 
 <!-- HTML5 -->
 <i class="skill-icon skill-icon-html" style="font-size: 60px;"></i>
+
 
 </p>
    Base de données
