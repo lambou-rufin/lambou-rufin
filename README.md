@@ -1,16 +1,17 @@
-## Hi there 👋
+# Salut, je suis Lambou 👋
 
-<!--
-**lambou-rufin/lambou-rufin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur React, Angular et Node.js basé à Fianarantsoa, Madagascar.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📫 Me contacter
+
+- Email : lambonirinarufin@gmail.com  
+- LinkedIn : [rufin-lambo](https://www.linkedin.com/in/rufin-lambo-a97154242)
