@@ -1,7 +1,6 @@
 # Salut, je suis Ruffin 👋
 
-Je suis développeur web fullstack spécialisé en React, Angular et Node.js.  
-Basé à Fianarantsoa, Madagascar.
+"Développeur web fullstack avec une expertise particulière en React, Angular et Node.js, je crée des applications performantes et évolutives en utilisant les technologies les plus modernes du web."
 
 ---
 
