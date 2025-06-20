@@ -1,4 +1,4 @@
-# Salut, je suis Lambou 👋
+# Salut, je suis Ruffin 👋
 
 Développeur React, Angular et Node.js basé à Fianarantsoa, Madagascar.
 
