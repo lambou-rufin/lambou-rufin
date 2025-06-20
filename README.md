@@ -24,18 +24,6 @@ Basé à Fianarantsoa, Madagascar.
 
 
 
-
-
----
-
-## 📂 Projets Pinned
-
-- [Za Mandresy Portfolio](https://github.com/lambou-rufin/za-mandresy-portfolio) - Mon portfolio et vitrine freelance
-- [Backend Companie Presentation](https://github.com/lambou-rufin/backend_CompaniePresentation_dev)
-- [Front Companie Presentation](https://github.com/lambou-rufin/front-companie_de_presentation)
-
----
-
 ## 📫 Contact
 
 - Email : lambonirinarufin@gmail.com  
