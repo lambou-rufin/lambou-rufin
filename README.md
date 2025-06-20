@@ -1,8 +1,11 @@
-# Salut, je suis Ruffin 👋
+# Salut, je suis Lambou 👋
 
-Développeur React, Angular et Node.js basé à Fianarantsoa, Madagascar.
+Je suis développeur web fullstack spécialisé en React, Angular et Node.js.  
+Basé à Fianarantsoa, Madagascar.
 
-## 🛠 Tech Stack
+---
+
+## 🛠 Technologies
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -11,7 +14,22 @@ Développeur React, Angular et Node.js basé à Fianarantsoa, Madagascar.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📫 Me contacter
+---
+
+## 📂 Projets Pinned
+
+- [Za Mandresy Portfolio](https://github.com/lambou-rufin/za-mandresy-portfolio) - Mon portfolio et vitrine freelance
+- [Mandresy Ghost Contributions](https://github.com/lambou-rufin/mandresy-ghost-contributions) - Simulation de contributions GitHub
+- [Backend Companie Presentation](https://github.com/lambou-rufin/backend_CompaniePresentation_dev)
+- [Front Companie Presentation](https://github.com/lambou-rufin/front-companie_de_presentation)
+
+---
+
+## 📫 Contact
 
 - Email : lambonirinarufin@gmail.com  
 - LinkedIn : [rufin-lambo](https://www.linkedin.com/in/rufin-lambo-a97154242)
+
+---
+
+> _“La programmation est l’art de penser, créer et construire.”_
