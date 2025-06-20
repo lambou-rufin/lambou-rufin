@@ -6,7 +6,7 @@ Basé à Fianarantsoa, Madagascar.
 ---
 
 ## Technologies et outils
- 
+ Languages & frameworks
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80" style="margin-right:10px;"/>
