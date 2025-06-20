@@ -27,7 +27,7 @@ Basé à Fianarantsoa, Madagascar.
 
 DevOps & tools
 <p float="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-white.svg" alt="GitHub" width="80" height="80" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="80" height="80" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80" />
  </p>
