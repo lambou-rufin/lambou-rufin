@@ -1,4 +1,4 @@
-# Salut, je suis Lambou 👋
+# Salut, je suis Ruffin 👋
 
 Je suis développeur web fullstack spécialisé en React, Angular et Node.js.  
 Basé à Fianarantsoa, Madagascar.
