@@ -7,14 +7,9 @@ Basé à Fianarantsoa, Madagascar.
 
 ## 🛠 Technologies
 
-React
-https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg
-
-Angular
-https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg
-
-Node.js
-https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) React  
+![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg) Angular  
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) Node.js  
 
 TypeScript
 https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
