@@ -6,59 +6,16 @@
 
 ## Technologies et outils
  Languages & frameworks
-<div className="flex flex-wrap items-center gap-2">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-    alt="Node.js"
-    className="w-20 h-20"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-    alt="React"
-    className="w-20 h-20"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-    alt="Angular"
-    className="w-20 h-20"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="TypeScript"
-    className="w-20 h-20"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="JavaScript"
-    className="w-20 h-20"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
-    alt="NestJS"
-    className="w-20 h-20"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-    alt="ExpressJS"
-    className="w-20 h-20 filter invert brightness-200 contrast-100"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
-    alt="Spring Boot"
-    className="w-20 h-20"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="PHP"
-    className="w-20 h-20"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-    alt="HTML5"
-    className="w-15 h-15"
-  />
-</div>
-
+<p float="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80" style="margin-right:10px;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="80" style="margin-right:10px;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="80" height="80" style="margin-right:10px;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80" style="margin-right:10px;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="margin-right:10px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="80" height="80" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="80" height="80" style="margin-right:10px; filter: invert(1) brightness(2) contrast(100%);" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80" style="margin-right:10px;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80" height="80" style="margin-right:10px;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" /> </p>
    Base de données
 <p float="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80" style="margin-right:10px;"/>
