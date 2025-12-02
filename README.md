@@ -15,6 +15,7 @@ Développeur web fullstack avec une expertise particulière en React, Angular et
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="80" height="80" style="margin-right:10px; filter: invert(1) brightness(2) contrast(100%);" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="80" height="80" style="margin-right:10px;"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80" height="80" style="margin-right:10px;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwins/tailwins-original.svg" alt="Tailwins" width="60" height="60" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" /> </p>
    Base de données
 <p float="left">
