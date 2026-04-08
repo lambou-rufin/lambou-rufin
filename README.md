@@ -13,8 +13,6 @@ Je crée des applications performantes et évolutives en utilisant les technolog
   <img alt="GitHub Snake" src="dist/github-snake.svg" />
 </picture>
 
-![GitHub Snake Animated GIF](dist/ocean.gif)
-
 ---
 
 ## 💻 Technologies et outils
