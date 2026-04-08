@@ -1,9 +1,9 @@
 name: generate-snake-game
 
 on:
-  schedule: # exécute automatiquement chaque jour
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # permet de lancer manuellement depuis l’onglet Actions
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,7 +19,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Publie les fichiers générés dans la branche "output"
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
