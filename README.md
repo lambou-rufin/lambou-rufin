@@ -36,15 +36,17 @@ Je crée des applications performantes et évolutives en utilisant les technolog
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80" />
 </p>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
 ---
 
+## 🐍 Snake Game Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lambou-rufin/lambou-rufin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lambou-rufin/lambou-rufin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lambou-rufin/lambou-rufin/output/github-snake.svg" />
+</picture>
+
+---
 
 ## 📫 Contact
 - Email : lambonirinarufin@gmail.com  
