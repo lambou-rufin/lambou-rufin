@@ -1,0 +1,30 @@
+name: generate-snake-game
+
+on:
+  schedule: # exécute automatiquement chaque jour
+    - cron: "0 0 * * *"
+  workflow_dispatch: # permet de lancer manuellement depuis l’onglet Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Récupère ton dépôt
+      - uses: actions/checkout@v4
+
+      # Génère l’animation Snake à partir de ton graphe de contributions
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.4.1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+
+      # Commit et push les fichiers générés dans ton dépôt
+      - name: Push Snake files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate Snake animation"
+          add: "dist/*"
