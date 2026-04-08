@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # <-- donne les droits d’écriture pour créer la branche
     steps:
       - uses: actions/checkout@v4
 
@@ -25,4 +27,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
-          force_orphan: true   # <-- important : crée la branche même si elle n’existe pas
+          force_orphan: true   # crée la branche même si elle n’existe pas
