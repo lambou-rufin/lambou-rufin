@@ -19,7 +19,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Push les fichiers générés dans une branche "output"
+      # Publie les fichiers générés dans la branche "output"
       - name: Push Snake files
         uses: crazy-max/ghaction-github-pages@v3
         with:
