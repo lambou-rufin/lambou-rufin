@@ -5,16 +5,6 @@ Je crée des applications performantes et évolutives en utilisant les technolog
 
 ---
 
-## 🎮 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub Snake" src="dist/github-snake.svg" />
-</picture>
-
----
-
 ## 💻 Technologies et outils
 
 ### Languages & frameworks
