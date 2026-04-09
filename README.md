@@ -85,10 +85,4 @@ Je maîtrise les technologies front-end et back-end, avec une expertise en optim
 
 ---
 
-## 📫 Contact
-- Email : lambonirinarufin@gmail.com  
-- LinkedIn : [rufin-lambo](https://www.linkedin.com/in/rufin-lamboandrianirina-a97154242/)
-
----
-
 > _“La programmation est l’art de penser, créer et construire.”_
