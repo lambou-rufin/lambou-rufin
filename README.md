@@ -1,4 +1,4 @@
-# Hi, je suis Ruffin 👋
+# Hi, je suis Ruffin 
 
 Développeur web fullstack avec expertise particulière en React, Angular et Node.js.  
 Je crée des applications performantes et évolutives en utilisant les technologies les plus modernes du web.
