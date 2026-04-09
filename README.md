@@ -1,4 +1,4 @@
-# Hi, je suis Ruffin 
+# Hi, je suis Ruffin 👋
 
 Développeur web fullstack avec expertise particulière en React, Angular et Node.js.  
 Je crée des applications performantes et évolutives en utilisant les technologies les plus modernes du web.
@@ -36,6 +36,10 @@ Je crée des applications performantes et évolutives en utilisant les technolog
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80" />
 </p>
 
+---
+
+## 🐍 Snake Game Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lambou-rufin/lambou-rufin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lambou-rufin/lambou-rufin/output/github-snake.svg" />
@@ -44,9 +48,21 @@ Je crée des applications performantes et évolutives en utilisant les technolog
 
 ---
 
+## 📊 Mes statistiques GitHub
+
+![Statistiques globales](https://github-readme-stats.vercel.app/api?username=lambou-rufin&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
+### Contributions par année
+![Commits en 2023](https://github-readme-stats.vercel.app/api?username=lambou-rufin&commits_year=2023&show_icons=true&theme=radical)
+![Commits en 2024](https://github-readme-stats.vercel.app/api?username=lambou-rufin&commits_year=2024&show_icons=true&theme=radical)
+![Commits en 2025](https://github-readme-stats.vercel.app/api?username=lambou-rufin&commits_year=2025&show_icons=true&theme=radical)
+![Commits en 2026](https://github-readme-stats.vercel.app/api?username=lambou-rufin&commits_year=2026&show_icons=true&theme=radical)
+
+---
+
 ## 📫 Contact
 - Email : lambonirinarufin@gmail.com  
-- LinkedIn : [rufin-lambo](https://www.linkedin.com/in/rufin-lambo-a97154242)
+- LinkedIn : https://www.linkedin.com/in/rufin-lamboandrianirina-a97154242/
 
 ---
 
