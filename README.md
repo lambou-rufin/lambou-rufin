@@ -1,10 +1,6 @@
 Hi, je suis Ruffin 👋
 
-Développeur Full-Stack passionné par la création d'applications web modernes, j'ai une expérience confirmée dans la conception et l'intégration de solutions complètes, aussi bien côté client que serveur.
-
-Je maîtrise l'optimisation technique et l'amélioration de l'expérience utilisateur.
-
-Je suis toujours à la recherche de nouveaux défis stimulants et innovants qui me permettent de repousser mes limites et de créer des solutions performantes.
+Développeur Full-Stack passionné par la création d'applications web modernes. Je maîtrise les technologies front-end et back-end. Mon expertise réside également dans l'optimisation des performances.
 
 💻 Technologies et outils
 🎨 Frontend
