@@ -71,7 +71,6 @@ Je maîtrise les technologies front-end et back-end, avec une expertise en optim
 
 ---
 
-## 🐍 Snake Game Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lambou-rufin/lambou-rufin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lambou-rufin/lambou-rufin/output/github-snake.svg" />
