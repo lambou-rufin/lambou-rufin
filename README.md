@@ -80,7 +80,7 @@ Je maîtrise les technologies front-end et back-end, avec une expertise en optim
 ---
 
 ## 📊 Mes statistiques GitHub
-![Statistiques globales](https://github-readme-stats.vercel.app/api?username=lambou-rufin&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+##![Statistiques globales](https://github-readme-stats.vercel.app/api?username=lambou-rufin&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 ---
 
